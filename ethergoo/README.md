@@ -1,3 +1,7 @@
+# Crypto Idle Game
+
+The incentive in this game is to create a productive lab with many scientists researching new ways to create Goo.
+
 # ethergoo's contract
 
 ## game address

@@ -1,0 +1,3 @@
+[submodule "cryptokitties"]
+	path = cryptokitties
+	url = https://github.com/cryptocopycats/awesome-cryptokitties.git

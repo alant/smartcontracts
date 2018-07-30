@@ -1,3 +1,5 @@
+[War of attrition](https://en.wikipedia.org/wiki/War_of_attrition_(game)) game on ethereum. 
+
 # fomo3d's contract
 
 ## game address
