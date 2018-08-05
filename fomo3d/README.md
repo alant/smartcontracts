@@ -4,6 +4,7 @@
 ## relationship between contracts:
 ![image of contract structure](images/structure.png)
 image credit: [wechat article](https://mp.weixin.qq.com/s/kT94y3kHZKa-JXXWWGqD_A)  
+Some tyos above: F3DEvent -> F3DEvents; moudleLong -> modularLong 
 
 ## game address
 [https://exitscam.me/](https://exitscam.me/getkey)
