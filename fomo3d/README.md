@@ -11,3 +11,5 @@
 ## analysis articles
  - [Fomo3Dlong源码分析](https://www.jianshu.com/p/c7706ba5c005)
  
+## interesting tx
+1st call after contract creation: [setOtherFomo(address _otherF3D)](https://etherscan.io/tx/0x422728d092a8237a8a0544274c7268d0f1daf598c43f3e0d403c787f57a32be3) unforutnately, otherF3D contract doesn't seem open source on etherscan
