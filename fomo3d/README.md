@@ -1,6 +1,9 @@
 [War of attrition](https://en.wikipedia.org/wiki/War_of_attrition_(game)) game on ethereum. 
 
 # fomo3d's contract
+## relationship between contracts:
+![image of contract structure](images/structure.png)
+image credit: [wechat article](https://mp.weixin.qq.com/s/kT94y3kHZKa-JXXWWGqD_A)  
 
 ## game address
 [https://exitscam.me/](https://exitscam.me/getkey)
