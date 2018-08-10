@@ -7,4 +7,4 @@ The World’s first DAPP to bet on the price of Cryptocurrencies
 [official website: https://ethorse.com/](https://ethorse.com/)
 
 ## contract on etherscan
-[etherscan link](https://etherscan.io/address/0x3066fc6f642d4280b34b81628293375649c6e22b#code)
+[etherscan link](https://etherscan.io/address/0x028377b5d7efc17c8450c70444c17ab317109f5f#code)
