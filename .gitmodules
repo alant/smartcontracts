@@ -1,3 +1,6 @@
 [submodule "cryptokitties"]
 	path = cryptokitties
 	url = https://github.com/cryptocopycats/awesome-cryptokitties.git
+[submodule "centre-tokens"]
+	path = centre-tokens
+	url = git@github.com:centrehq/centre-tokens.git
