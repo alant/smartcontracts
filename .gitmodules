@@ -4,3 +4,6 @@
 [submodule "centre-tokens"]
 	path = centre-tokens
 	url = git@github.com:centrehq/centre-tokens.git
+[submodule "gemini-dollar"]
+	path = gemini-dollar
+	url = git@github.com:gemini/dollar.git
