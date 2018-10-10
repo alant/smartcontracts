@@ -9,4 +9,5 @@ Many thanks to Mike Seese (seesemichaelj) on the Truffle team to share with us t
 
 ## related articles
 [TruffleCon 2018 - It's a Trap! Forking Workshop Steps](https://docs.google.com/document/d/1PF_LGcnMKfLxe9E4kzwb4r1vhUoGa35PNZmEIZANF3Q/mobilebasic)
+
 [Reentrancy Attack On Smart Contracts: How To Identify The Exploitable And An Example Of An Attack Contract](https://medium.com/@gus_tavo_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)
