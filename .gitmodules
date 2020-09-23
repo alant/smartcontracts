@@ -7,3 +7,6 @@
 [submodule "gemini-dollar"]
 	path = gemini-dollar
 	url = git@github.com:gemini/dollar.git
+[submodule "sushiswap"]
+	path = sushiswap
+	url = https://github.com/sushiswap/sushiswap.git
