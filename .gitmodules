@@ -10,3 +10,6 @@
 [submodule "sushiswap"]
 	path = sushiswap
 	url = https://github.com/sushiswap/sushiswap.git
+[submodule "sakeswap-protocol"]
+	path = sakeswap-protocol
+	url = https://github.com/Sakeswap/sakeswap-protocol.git
