@@ -13,3 +13,6 @@
 [submodule "sakeswap-protocol"]
 	path = sakeswap-protocol
 	url = https://github.com/Sakeswap/sakeswap-protocol.git
+[submodule "dollar"]
+	path = dollar
+	url = https://github.com/emptysetsquad/dollar.git
